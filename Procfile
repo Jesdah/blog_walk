@@ -1,1 +1,1 @@
-web: gunicorn blog-walk-jesper.wsgi
+web: gunicorn codestar_2021.wsgi
